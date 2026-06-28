@@ -148,7 +148,7 @@ Through this project, I strengthened my understanding of:
 
 ## 👨‍💻 Author
 
-**Lucky Bhatt**
+**Lucky**
 
 Aspiring Data Analyst
 
