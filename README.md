@@ -155,5 +155,3 @@ Aspiring Data Analyst
 **Skills:** Microsoft Excel • SQL • Python • Power BI • Data Visualization • Business Intelligence
 
 ---
-
-## ⭐ If you found this project helpful, consider giving this repository a Star.
